@@ -42,6 +42,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![EX 4 2](https://github.com/Vinishofficial/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/146931793/ac311e8e-689e-4cec-a3ec-2fae77376f6d)
+
 
 ## RESULT:
 Thus, the cut section for solid model is created.
